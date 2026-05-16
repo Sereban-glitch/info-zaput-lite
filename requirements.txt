@@ -1,0 +1,3 @@
+pyTelegramBotAPI==4.26.0
+google-generativeai==0.24.1
+python-dotenv==1.0.1
